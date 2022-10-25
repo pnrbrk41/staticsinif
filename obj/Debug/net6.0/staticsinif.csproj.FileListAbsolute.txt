@@ -1,0 +1,15 @@
+C:\Users\Burak\Documents\GitHub\staticsinif\obj\Debug\net6.0\staticsinif.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\staticsinif\obj\Debug\net6.0\staticsinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\GitHub\staticsinif\obj\Debug\net6.0\staticsinif.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\staticsinif\obj\Debug\net6.0\staticsinif.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\staticsinif\obj\Debug\net6.0\staticsinif.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\GitHub\staticsinif\bin\Debug\net6.0\staticsinif.exe
+C:\Users\Burak\Documents\GitHub\staticsinif\bin\Debug\net6.0\staticsinif.deps.json
+C:\Users\Burak\Documents\GitHub\staticsinif\bin\Debug\net6.0\staticsinif.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\staticsinif\bin\Debug\net6.0\staticsinif.dll
+C:\Users\Burak\Documents\GitHub\staticsinif\bin\Debug\net6.0\staticsinif.pdb
+C:\Users\Burak\Documents\GitHub\staticsinif\obj\Debug\net6.0\staticsinif.dll
+C:\Users\Burak\Documents\GitHub\staticsinif\obj\Debug\net6.0\refint\staticsinif.dll
+C:\Users\Burak\Documents\GitHub\staticsinif\obj\Debug\net6.0\staticsinif.pdb
+C:\Users\Burak\Documents\GitHub\staticsinif\obj\Debug\net6.0\staticsinif.genruntimeconfig.cache
+C:\Users\Burak\Documents\GitHub\staticsinif\obj\Debug\net6.0\ref\staticsinif.dll
