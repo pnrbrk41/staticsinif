@@ -1,0 +1,2 @@
+# staticsinif
+staticsinif
